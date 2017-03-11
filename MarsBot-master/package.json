@@ -1,0 +1,8 @@
+{
+ ...
+ "main": "app.js",
+ "scripts": {
+ "start": "node app.js" // tells the web service where the start script is
+ }
+ ...
+}
